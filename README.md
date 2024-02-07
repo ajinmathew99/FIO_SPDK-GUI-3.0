@@ -42,7 +42,7 @@ If you encounter any problems, please check the following:
   - Run the following command:
   
 ```
-sudo ./spdk/scripts/setup.sh
+sudo ./scripts/setup.sh
 ```
 ## Contributing
 If you would like to contribute to this project, please fork the repository and submit a pull request.
